@@ -1,0 +1,148 @@
+canonical_identifier: bkk:krp/KR6k0284/G/v1
+canonical_location: https://kanripo.org/bkk/KR6k0284/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 釋門歸敬儀科
+  identifiers:
+    krp: KR6k0284
+    cbeta: G104n2269
+    cbeta_old_id: G104n2269
+    authorityid: CA0008634
+    json_key: G2269
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2269.xml
+    old_id: G104n2269
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0284_000-G.yaml, hash: 'sha256:bbd4b5fec19c9737ee322bf1961dab0bc8c0d6353f878b93e292661ca0275bec'}
+  - {seq: 1, filename: KR6k0284_001-G.yaml, hash: 'sha256:35192cf9cafbe21325ade660e282baae7ce56e0bf7ea7a35b93cc49484848e7e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0284_000-G.markers.yaml, hash: 'sha256:e4a7989e1804c479e63154884a8cf6d8cbf426217bc35e5b19f9b099de8da1ec'}
+  - {seq: 1, role: markers, filename: assets/KR6k0284_001-G.markers.yaml, hash: 'sha256:90af448173697944a026260b8e813f70a0a7cf5200610517b242bed07e077686'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 3148
+  label: 釋門歸敬儀科己卯秋敬錄
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-1
+    span:
+    - body
+    - 2
+    - 2
+  label: 總科
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-2
+    span:
+    - body
+    - 126
+    - 126
+  label: 初敬本教興篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-3
+    span:
+    - body
+    - 397
+    - 397
+  label: 二濟時護法篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-4
+    span:
+    - body
+    - 899
+    - 899
+  label: 三隨機立教篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-5
+    span:
+    - body
+    - 1026
+    - 1026
+  label: 四乘心行事篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-6
+    span:
+    - body
+    - 1156
+    - 1156
+  label: 五寄緣真俗篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-7
+    span:
+    - body
+    - 1367
+    - 1367
+  label: 六引教徵事篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-8
+    span:
+    - body
+    - 1663
+    - 1663
+  label: 七約時科節篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-9
+    span:
+    - body
+    - 1804
+    - 1804
+  label: 八威容有儀篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-10
+    span:
+    - body
+    - 2606
+    - 2606
+  label: 九功用顯迹篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0284_G_001-mulu-11
+    span:
+    - body
+    - 3115
+    - 3115
+  label: 十程器陳迹篇
+  type: mulu
+  level: 1
+hash: sha256:4394178e1e80dc7609f8cc72f983e84a5199eb702ffc657f9546cb807bfecc63
