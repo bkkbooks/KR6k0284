@@ -14,9 +14,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6k0284_000.yaml, hash: 'sha256:bbd4b5fec19c9737ee322bf1961dab0bc8c0d6353f878b93e292661ca0275bec'}
-  - {seq: 1, filename: KR6k0284_001.yaml, hash: 'sha256:3bdc4f37d9a979ac70f34cb39c04ef2f2fda170d45315e06b9481c60e8001b9e'}
+  - {seq: 1, filename: KR6k0284_001.yaml, hash: 'sha256:35192cf9cafbe21325ade660e282baae7ce56e0bf7ea7a35b93cc49484848e7e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0284_001.markers.yaml, hash: 'sha256:a28d137b4750cb34ff13425c84cb3a8a9effacf77dda3ccb0cb5292d481afe15'}
+  - {seq: 0, role: markers, filename: assets/KR6k0284_000.markers.yaml, hash: 'sha256:733ca498a1acee1366a088bf4adf436d9140793582657e187acd859ef415b50b'}
+  - {seq: 1, role: markers, filename: assets/KR6k0284_001.markers.yaml, hash: 'sha256:134b1cff1a782f2d08d0cec051ac96eaa911d80f4a9c85825cb2cd3f509bfa57'}
 table_of_contents:
 - ref:
     seq: 1
@@ -138,9 +139,6 @@ table_of_contents:
   label: 十程器陳迹篇
   type: mulu
   level: 1
-hash: sha256:518f2ac13c0282264754c1a8be100387e0d578961ff2deabd10ea61cea8b286e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2d68f7a48856d1f56577b5c9ba9028c3685c35e3cda42f5beab48906286daf5b
 editions:
 - short: G

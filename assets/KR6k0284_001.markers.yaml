@@ -2880,7 +2880,6 @@ markers:
   - {type: indent, offset: 1753, content: 　, id: KR6k0284_G_001-bkkind1756}
   - {type: punctuation, offset: 1753, content: └, id: KR6k0284_G_001-bkkpn851}
   - {type: punctuation, offset: 1758, content: ┬, id: KR6k0284_G_001-bkkpn852}
-  - {type: substitution, offset: 1761, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: line-break, offset: 1763, content: '', id: KR6k0284_G_001-0516a17, ed: G, 'n': 0516a17}
   - {type: indent, offset: 1763, content: 　, id: KR6k0284_G_001-bkkind1757}
   - {type: punctuation, offset: 1763, content: │, id: KR6k0284_G_001-bkkpn853}
@@ -3912,7 +3911,6 @@ markers:
   - {type: indent, offset: 2508, content: 　, id: KR6k0284_G_001-bkkind2384}
   - {type: indent, offset: 2508, content: 　, id: KR6k0284_G_001-bkkind2385}
   - {type: punctuation, offset: 2508, content: ├, id: KR6k0284_G_001-bkkpn1159}
-  - {type: substitution, offset: 2511, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
   - {type: line-break, offset: 2512, content: '', id: KR6k0284_G_001-0517b23, ed: G, 'n': 0517b23}
   - {type: indent, offset: 2512, content: 　, id: KR6k0284_G_001-bkkind2386}
   - {type: indent, offset: 2512, content: 　, id: KR6k0284_G_001-bkkind2387}
@@ -3930,7 +3928,6 @@ markers:
   - {type: indent, offset: 2516, content: 　, id: KR6k0284_G_001-bkkind2397}
   - {type: indent, offset: 2516, content: 　, id: KR6k0284_G_001-bkkind2398}
   - {type: punctuation, offset: 2516, content: └, id: KR6k0284_G_001-bkkpn1162}
-  - {type: substitution, offset: 2519, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1294}}
   - {type: line-break, offset: 2520, content: '', id: KR6k0284_G_001-0517b24, ed: G, 'n': 0517b24}
   - {type: indent, offset: 2520, content: 　, id: KR6k0284_G_001-bkkind2399}
   - {type: indent, offset: 2520, content: 　, id: KR6k0284_G_001-bkkind2400}
@@ -4101,7 +4098,6 @@ markers:
   - {type: indent, offset: 2696, content: 　, id: KR6k0284_G_001-bkkind2480}
   - {type: punctuation, offset: 2696, content: └, id: KR6k0284_G_001-bkkpn1223}
   - {type: punctuation, offset: 2701, content: ├, id: KR6k0284_G_001-bkkpn1224}
-  - {type: substitution, offset: 2704, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3886}}
   - {type: punctuation, offset: 2706, content: ⊙, id: KR6k0284_G_001-bkkpn1225}
   - {type: line-break, offset: 2706, content: '', id: KR6k0284_G_001-0518a12, ed: G, 'n': 0518a12}
   - {type: indent, offset: 2706, content: 　, id: KR6k0284_G_001-bkkind2481}
@@ -4119,7 +4115,6 @@ markers:
   - {type: punctuation, offset: 2719, content: ⊙, id: KR6k0284_G_001-bkkpn1229}
   - {type: line-break, offset: 2719, content: '', id: KR6k0284_G_001-0518a13, ed: G, 'n': 0518a13}
   - {type: punctuation, offset: 2719, content: ⊙, id: KR6k0284_G_001-bkkpn1230}
-  - {type: substitution, offset: 2722, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3886}}
   - {type: punctuation, offset: 2724, content: ┬, id: KR6k0284_G_001-bkkpn1231}
   - {type: punctuation, offset: 2726, content: └, id: KR6k0284_G_001-bkkpn1232}
   - {type: indent, offset: 2732, content: 　, id: KR6k0284_G_001-bkkind2490}
@@ -4766,4 +4761,4 @@ markers:
   - {type: xml-element, offset: 3147, content: '', id: pG104p0518b3301, name: p, role: open, attrs: {'xml:id': pG104p0518b3301, rend: text-right}}
   - {type: xml-element, offset: 3148, content: '', id: pG104p0518b3301_end, name: p, role: close, attrs: {'xml:id': pG104p0518b3301, rend: text-right}}
   back: []
-hash: sha256:a28d137b4750cb34ff13425c84cb3a8a9effacf77dda3ccb0cb5292d481afe15
+hash: sha256:134b1cff1a782f2d08d0cec051ac96eaa911d80f4a9c85825cb2cd3f509bfa57
